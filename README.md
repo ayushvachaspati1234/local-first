@@ -1,4 +1,4 @@
-# Driftless — Landing Page
+# Mavryx — Landing Page
 
 Static landing page for a **local-first collaboration infrastructure** startup (CRDT sync engine: offline by default, P2P sync, bring-your-own storage, sold to app developers). No build step, no dependencies — plain HTML/CSS/JS.
 
@@ -8,9 +8,9 @@ Edit the three values at the top of **`config.js`**:
 
 ```js
 const BRAND = {
-  companyName: "Driftless",
-  domain: "driftless.example.com",
-  contactEmail: "hello@driftless.example.com"
+  companyName: "Mavryx",
+  domain: "mavryx.xyz",
+  contactEmail: "hello@mavryx.xyz"
 };
 ```
 
